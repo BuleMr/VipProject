@@ -3,3 +3,8 @@
 ################################################################################
 
 /Common/obj/Debug
+/Model/obj/Debug
+/Common/bin/Debug
+/DB
+/Model/bin/Debug
+/.vs/vipProject/v15

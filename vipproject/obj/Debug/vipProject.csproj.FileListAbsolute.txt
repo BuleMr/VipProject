@@ -8,3 +8,15 @@ D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\b
 D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\obj\Debug\vipProject.csprojResolveAssemblyReference.cache
 D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\obj\Debug\vipProject.dll
 D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\obj\Debug\vipProject.pdb
+F:\Demo1\VipProject\vipProject\bin\vipProject.dll.config
+F:\Demo1\VipProject\vipProject\bin\vipProject.dll
+F:\Demo1\VipProject\vipProject\bin\vipProject.pdb
+F:\Demo1\VipProject\vipProject\bin\Common.dll
+F:\Demo1\VipProject\vipProject\bin\Model.dll
+F:\Demo1\VipProject\vipProject\bin\Common.pdb
+F:\Demo1\VipProject\vipProject\bin\Model.pdb
+F:\Demo1\VipProject\vipProject\obj\Debug\vipProject.csprojAssemblyReference.cache
+F:\Demo1\VipProject\vipProject\obj\Debug\vipProject.csproj.CoreCompileInputs.cache
+F:\Demo1\VipProject\vipProject\obj\Debug\vipProject.csproj.CopyComplete
+F:\Demo1\VipProject\vipProject\obj\Debug\vipProject.dll
+F:\Demo1\VipProject\vipProject\obj\Debug\vipProject.pdb
