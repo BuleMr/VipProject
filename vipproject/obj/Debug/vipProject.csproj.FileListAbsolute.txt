@@ -1,0 +1,10 @@
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\bin\vipProject.dll.config
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\bin\vipProject.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\bin\vipProject.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\bin\Common.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\bin\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\bin\Common.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\bin\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\obj\Debug\vipProject.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\obj\Debug\vipProject.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\vipProject\obj\Debug\vipProject.pdb
